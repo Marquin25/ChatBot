@@ -35,3 +35,13 @@ Rotas
 Modelagem do banco de dados
 modelo logico
 banco de dados estruturado
+
+
+> ### Colaboradores 👨‍👨‍👦‍👦
+<ul> 
+<li>Marcus Antônio</li>
+<li>Theo Jose</li>
+<li>Eriky Baltk</li>
+<li>Daniel Menezes</li>
+<li>Marcos Eduardo </li>
+</ul>
