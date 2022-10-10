@@ -28,14 +28,15 @@ Essa opção vai mandar um texto de instrução, onde havera uma instrução do 
 
 > ## Configuração do projeto ⚙️ 
 
-Marcos e Daniel
+<b> Como q faz para reproduzir o nosso projeto </b> 
 
-Rotas
+> ### Rotas 🧭
 
-Modelagem do banco de dados
-modelo logico
-banco de dados estruturado
-
+<ul>
+<li> Modelagem do banco de dados </li>
+<li> Modelo logico </li>
+<li> Banco de dados estruturado </li>
+</ul>
 
 > ### Colaboradores 👨‍👨‍👦‍👦
 <ul> 
