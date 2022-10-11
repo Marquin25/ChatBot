@@ -49,4 +49,3 @@ Essa opção vai mandar um texto de instrução, onde havera uma instrução do 
 
 
 
-<font color="green">daddadad</font>
