@@ -34,7 +34,7 @@ Essa opção vai mandar um texto de instrução, onde havera uma instrução do 
 
 <ul>
 <li> Modelagem do banco de dados </li>
-<li> Modelo logico </li>
+<li> Modelo logico link: https://drive.google.com/file/d/1VPQC5MrVUA1qp6NIkTnf1t1hIRnMC4Pt/view?usp=sharing </li>
 <li> Banco de dados estruturado </li>
 </ul>
 
