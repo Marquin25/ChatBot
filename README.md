@@ -28,7 +28,7 @@ Essa opção vai mandar um texto de instrução, onde havera uma instrução do 
 
 > ## Configuração do projeto ⚙️ 
 
-<b> Como q faz para reproduzir o nosso projeto </b> 
+<b> O usuário entraria em um site e iria aparecer um botão de start, após pressioná-lo, o usuário seria guiado a uma caixa de texto, onde poderia conversar com o chatbot e utilizar dos seus serviços </b> 
 
 > ### Rotas 🧭
 
