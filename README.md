@@ -35,7 +35,7 @@ Essa opção vai mandar um texto de instrução, onde havera uma instrução do 
 <ul>
 <li> Modelagem do banco de dados </li>
 <li> Modelo logico link: https://drive.google.com/file/d/1VPQC5MrVUA1qp6NIkTnf1t1hIRnMC4Pt/view?usp=sharing </li>
-<li> Banco de dados estruturado: o banco de dados contém uma tabela que é dividido em diferentes colunas, contendo os seguintes dados: ID (CHAVE PRIMÁRIA), TEXT (frases implementadas no bot), SEARCH_TEXT (a busca das frases), CONVERSATION (o tipo de conversa, que está em treinamento), CREATED_AT (a data e hora que tal conversa foi criada), IN_RESPONSE_TO (a resposta dada pelo chatbot depois da resposta do usuário), SEARCH_IN_RESPONSE (a busca dessa resposta no banco de dados) e PERSONA (a nomeação do chatbot)  </li>
+<li> Banco de dados estruturado: o banco de dados contém uma tabela que é dividido em diferentes colunas, contendo os seguintes dados: ID (CHAVE PRIMÁRIA), TEXT (Mensagens que o bot armazenou para responder), SEARCH_TEXT (a busca das frases), CONVERSATION (o tipo de conversa, que está em treinamento), CREATED_AT (a data e hora que tal conversa foi criada), IN_RESPONSE_TO (Mensagens recebidas dos usuários), SEARCH_IN_RESPONSE (a busca dessa resposta no banco de dados) e PERSONA (a nomeação do chatbot)  </li>
 </ul>
 
 > ### Colaboradores 👨‍👨‍👦‍👦
