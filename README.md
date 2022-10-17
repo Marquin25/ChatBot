@@ -33,9 +33,8 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 > ### Rotas 🧭
 
 <ul>
-<li> Modelagem do banco de dados </li>
 <li><a href ="https://drive.google.com/file/d/1VPQC5MrVUA1qp6NIkTnf1t1hIRnMC4Pt/view?usp=sharing"> Modelo lógico  <a> </li>
-<li> Banco de dados estruturado: o banco de dados contém uma tabela que é dividido em diferentes colunas, contendo os seguintes dados: ID (CHAVE PRIMÁRIA), TEXT (Mensagens que o bot dá em resposta ao IN_RESPONSE_TO), SEARCH_TEXT (a busca das frases), CONVERSATION (o tipo de conversa, que está em treinamento), CREATED_AT (a data e hora que tal conversa foi criada), IN_RESPONSE_TO (Mensagens dos usuários enviadas), SEARCH_IN_RESPONSE (a busca dessa resposta no banco de dados) e PERSONA (a nomeação do chatbot)  </li>
+<li> <a href ="https://github.com/Marquin25/ChatBott/blob/main/README.md" <a> Banco de Dados </li>
 </ul>
 
 > ### Colaboradores 👨‍👨‍👦‍👦
@@ -50,3 +49,5 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 
 
 > ### <a href ="https://github.com/theokkkk1/chatbot"> Política de uso <a>
+
+https://github.com/Marquin25/ChatBott/blob/main/README.md
