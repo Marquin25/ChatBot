@@ -46,5 +46,5 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 <li>Daniel Menezes</li>
 <li>Marcos Eduardo </li>
 </ul>
-<a href="https://github.com/theokkkk1/respostas-na-vis-o-de-usu-rio-dos-eventos-da-plataforma-/edit/main/README.md" Casos de uso <a>
+<a href ="https://github.com/theokkkk1/respostas-na-vis-o-de-usu-rio-dos-eventos-da-plataforma-/edit/main/README.md" Casos de uso <a>
 
