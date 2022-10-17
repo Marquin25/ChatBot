@@ -49,4 +49,4 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 
 
 
-<a href ="https://github.com/theokkkk1/chatbot"> sla <a>
+> ### <a href ="https://github.com/theokkkk1/chatbot"> Política de uso <a>
