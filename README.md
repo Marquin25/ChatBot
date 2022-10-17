@@ -34,9 +34,13 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 
 <ul>
 <li><a href ="https://drive.google.com/file/d/1VPQC5MrVUA1qp6NIkTnf1t1hIRnMC4Pt/view?usp=sharing"> Modelo lógico  <a> </li>
+
 <li> <a href ="https://github.com/Marquin25/ChatBott/blob/main/README.md" <a> Banco de Dados </li>
+
 <li> <a href ="https://github.com/theokkkk1/chatbot"> Política de uso <a> </li>
+
 <li> <a href ="https://github.com/theokkkk1/respostas-na-vis-o-de-usu-rio-dos-eventos-da-plataforma-/edit/main/README.md" > Casos de uso <a> </li>
+
 </ul>
   
 > ### Colaboradores 👨‍👨‍👦‍👦
