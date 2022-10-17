@@ -40,7 +40,7 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 </ul>
   
 
-> ### Artefatos
+> ### Artefatos 💤
 
 <ul>
 <li> <a href ="https://github.com/theokkkk1/chatbot"> Política de uso <a> </li>
