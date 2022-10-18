@@ -50,7 +50,7 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 > ### Colaboradores 👨‍👨‍👦‍👦
 <ul> 
 <li>Marcus Antônio</li>
-<li>Theo Jose</li>
+<li>Théo José</li>
 <li>Eriky Baltk</li>
 <li>Daniel Menezes</li>
 <li>Marcos Eduardo </li>
