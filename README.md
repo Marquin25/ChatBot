@@ -1,4 +1,4 @@
-> <h1>ChatBot 🤖</h1>
+-> <h1>ChatBot 🤖</h1>
 
 ![Stray_Memory_Locations_Header](https://user-images.githubusercontent.com/114959566/194672659-9fadece2-8f84-4791-952d-68fa9f54c5c1.jpg)
 
@@ -43,9 +43,9 @@ O usuário entraria em um site e iria aparecer um botão de start, após pressio
 > ### Artefatos 💤
 
 <ul>
-<li> <a href ="https://github.com/theokkkk1/chatbot"> ⚠️ Política de uso <a> </li>
+<li> <a href ="https://github.com/theokkkk1/chatbot"target="_blank"> ⚠️ Política de uso <a> </li>
 
-<li> <a href ="https://github.com/theokkkk1/respostas-na-vis-o-de-usu-rio-dos-eventos-da-plataforma-/edit/main/README.md" > 📂 Casos de uso <a> </li>
+<li> <a href ="https://github.com/theokkkk1/respostas-na-vis-o-de-usu-rio-dos-eventos-da-plataforma-/edit/main/README.md"target="_blank"> 📂 Casos de uso <a> </li>
 </ul>
 
 > ### Colaboradores 👨‍👨‍👦‍👦
