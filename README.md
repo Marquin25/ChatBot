@@ -1,6 +1,6 @@
 > <h1>ChatBot 🤖</h1>
 
-> ## <li> <a href ="https://github.com/theokkkk1/escopo-"> Escopo do ChatBot 💻 <a>
+> ##  <a href ="https://github.com/theokkkk1/escopo-"> Escopo do ChatBot 💻 <a>
 
 > ### Funcionalidade ✅
 <ul>
@@ -9,7 +9,7 @@
 
 </ul>
 
-> ## <li> <a href = "https://github.com/theokkkk1/configura-es/edit/main/README.md" > Configuração do projeto ⚙️ 
+> ##  <a href = "https://github.com/theokkkk1/configura-es/edit/main/README.md" > Configuração do projeto ⚙️ 
 
 > ### Rotas 🧭
 
