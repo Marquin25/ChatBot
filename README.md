@@ -5,7 +5,7 @@
 > ### Funcionalidade ✅
 <ul>
 
-<li> <a href ="https://github.com/theokkkk1/funcionalidade/tree/main"> 📀Função de Vídeo/Áudio <a>
+<li> <a href ="https://github.com/theokkkk1/funcionalidade/tree/main"> 📀 Função de Vídeo/Áudio <a>
 
 </ul>
 
