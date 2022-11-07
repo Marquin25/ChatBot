@@ -32,16 +32,7 @@
   
 </ul>
 
-> ### Colaboradores 👨‍👨‍👦‍👦
-<ul>
-  
-<li>Marcus Antônio</li>
-<li>Théo José</li>
-<li>Eriky Baltk</li>
-<li>Daniel Menezes</li>
-<li>Marcos Eduardo </li>
-  
-</ul>
+> ### <a href ="https://github.com/Marquin25/Colaboradores-/blob/main/README.md "> Colaboradores 👨‍👨‍👦‍👦  <a>
   
 
 
