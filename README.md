@@ -24,7 +24,7 @@ Essa opção vai mandar um texto de instrução, onde havera uma instrução do 
 
 </table>
 
-> ## Configuração do projeto ⚙️ 
+> ## <li> <a href = "https://github.com/theokkkk1/configura-es/new/main?readme=1" > Configuração do projeto ⚙️ 
 
 O usuário entraria em um site e iria aparecer um botão de start, após pressioná-lo, o usuário seria guiado a uma caixa de texto, onde poderia conversar com o chatbot e utilizar dos seus serviços
 
